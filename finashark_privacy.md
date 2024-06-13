@@ -7,25 +7,25 @@
 
 <p>1. Mục đích thu thập thông tin cá nhân</p>
 
-<p>- Việc thu thập dữ liệu trên website finashark.vn bao gồm: email, điện thoại, tên đăng nhập, mật khẩu đăng nhập, địa chỉ khách hàng (thành viên). Đây là các thông tin mà finashark.vn cần thành viên cung cấp bắt buộc khi đăng ký sử dụng dịch vụ và để finashark.vn liên hệ xác nhận khi khách hàng đăng ký sử dụng dịch vụ trên website nhằm đảm bảo quyền lợi cho cho người tiêu dùng.</p>
+<p>- Việc thu thập dữ liệu trên website finashark.com bao gồm: email, điện thoại, tên đăng nhập, mật khẩu đăng nhập, địa chỉ khách hàng (thành viên). Đây là các thông tin mà finashark.vn cần thành viên cung cấp bắt buộc khi đăng ký sử dụng dịch vụ và để finashark.vn liên hệ xác nhận khi khách hàng đăng ký sử dụng dịch vụ trên website nhằm đảm bảo quyền lợi cho cho người tiêu dùng.</p>
 
-<p>- Các thành viên sẽ tự chịu trách nhiệm về bảo mật và lưu giữ mọi hoạt động sử dụng dịch vụ dưới tên đăng ký, mật khẩu và hộp thư điện tử của mình. Ngoài ra, thành viên có trách nhiệm thông báo kịp thời cho finashark.vn về những hành vi sử dụng trái phép, lạm dụng, vi phạm bảo mật, lưu giữ tên đăng ký và mật khẩu của bên thứ ba để có biện pháp giải quyết phù hợp.</p>
+<p>- Các thành viên sẽ tự chịu trách nhiệm về bảo mật và lưu giữ mọi hoạt động sử dụng dịch vụ dưới tên đăng ký, mật khẩu và hộp thư điện tử của mình. Ngoài ra, thành viên có trách nhiệm thông báo kịp thời cho finashark.com về những hành vi sử dụng trái phép, lạm dụng, vi phạm bảo mật, lưu giữ tên đăng ký và mật khẩu của bên thứ ba để có biện pháp giải quyết phù hợp.</p>
 
 <p>2. Phạm vi thu thập thông tin</p>
 
-<p>Website finashark.vn sử dụng thông tin thành viên cung cấp để:</p>
+<p>Website finashark.com sử dụng thông tin thành viên cung cấp để:</p>
 
 <p>- Cung cấp các dịch vụ đến Thành viên;</p>
 
-<p>- Gửi các thông báo về các hoạt động trao đổi thông tin giữa thành viên và finashark.vn;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+<p>- Gửi các thông báo về các hoạt động trao đổi thông tin giữa thành viên và finashark.com;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
 
 <p>- Ngăn ngừa các hoạt động phá hủy tài khoản người dùng của thành viên hoặc các hoạt động giả mạo Thành viên;</p>
 
 <p>- Liên lạc và giải quyết với thành viên trong những trường hợp đặc biệt.</p>
 
-<p>- Không sử dụng thông tin cá nhân của thành viên ngoài mục đích xác nhận và liên hệ có liên quan đến giao dịch tại finashark.vn.</p>
+<p>- Không sử dụng thông tin cá nhân của thành viên ngoài mục đích xác nhận và liên hệ có liên quan đến giao dịch tại finashark.com</p>
 
-<p>- Trong trường hợp có yêu cầu của pháp luật: finashark.vn có trách nhiệm hợp tác cung cấp thông tin cá nhân thành viên khi có yêu cầu từ cơ quan tư pháp bao gồm: Viện kiểm sát, tòa án, cơ quan công an điều tra liên quan đến hành vi vi phạm pháp luật nào đó của khách hàng. Ngoài ra, không ai có quyền xâm phạm vào thông tin cá nhân của thành viên.</p>
+<p>- Trong trường hợp có yêu cầu của pháp luật: finashark.com có trách nhiệm hợp tác cung cấp thông tin cá nhân thành viên khi có yêu cầu từ cơ quan tư pháp bao gồm: Viện kiểm sát, tòa án, cơ quan công an điều tra liên quan đến hành vi vi phạm pháp luật nào đó của khách hàng. Ngoài ra, không ai có quyền xâm phạm vào thông tin cá nhân của thành viên.</p>
 
 <p>3. Thời gian lưu trữ thông tin</p>
 
@@ -55,7 +55,7 @@
 
 <p>&nbsp;6. Phương thức và công cụ để người dùng tiếp cận và chỉnh sửa dữ liệu:</p>
 
-<p>- Thành viên có quyền tự kiểm tra, cập nhật, điều chỉnh hoặc hủy bỏ thông tin cá nhân của mình bằng cách đăng nhập vào tài khoản và chỉnh sửa thông tin cá nhân hoặc yêu cầu ban quản trị website finashark.vn thực hiện việc này.</p>
+<p>- Thành viên có quyền tự kiểm tra, cập nhật, điều chỉnh hoặc hủy bỏ thông tin cá nhân của mình bằng cách đăng nhập vào tài khoản và chỉnh sửa thông tin cá nhân hoặc yêu cầu ban quản trị website finashark.com thực hiện việc này.</p>
 
-<p>- Thành viên có quyền gửi khiếu nại về việc lộ thông tin cá nhân cho bên thứ 3 đến Ban quản trị của website finashark.vn. Khi tiếp nhận những phản hồi này, finashark.vn sẽ xác nhận lại thông tin, phải có trách nhiệm trả lời lý do và hướng dẫn thành viên khôi phục và bảo mật lại thông tin.</p>
+<p>- Thành viên có quyền gửi khiếu nại về việc lộ thông tin cá nhân cho bên thứ 3 đến Ban quản trị của website finashark.com. Khi tiếp nhận những phản hồi này, finashark.vn sẽ xác nhận lại thông tin, phải có trách nhiệm trả lời lý do và hướng dẫn thành viên khôi phục và bảo mật lại thông tin.</p>
                             </div>
